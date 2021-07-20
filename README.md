@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Phoenix Suns news</title>
+	<style type="text/css">
 
-You can use the [editor on GitHub](https://github.com/stefanradic995/Moj-najnoviji-projekat/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+	body {
+		background-image: url("file:///C:/Users/stefa/Desktop/basketball1.jpg"); 
+	     background-repeat: no-repeat; 
+	     background-size: 1500px 800px;
+	     background-attachment: fixed; }
+		h1 {
+			color: rgb(252,252,252); }
+			h3 {
+				color: rgb(252,252,252);
+			}
+			h4 {
+				color: rgb(252,252,252); }
+		</style>
+</head>
+<body>
+<h1><center>SUNS' CHRIS PAUL "OUT" FOR SECOND GAME OF WESTERN CONFERENCE FINALS<center></h1>
+	<hr />
+<h3><i>The Suns' Chris Paul will not be playing in Tuesday's game, the second game of the Western Conference finals, according to the NBA.</i></h3>
+<center><img src="C:/Users/stefa/Desktop/chris.png" alt="Chris Paul" width="600" height="450" /></center>
+<h4>Paul entered the NBA's COVID-19 "health and safety protocols" last week and was sidelined for an "idefinite period of time." It's not clear if he's vaccinated or if he may have to isolate for some time if he tests positive. The official injury report lists him as "out" for the game. He already sat out Sunday's Game 1.</h4>
+<h4>The last time the Phoenix Suns were in the Western Conference Finals was 2010. They've also won the Conference title in 1976 and 1993, but the team has yet to win the championship.</h4>
+<h4>Paul (36), has been essential to the Suns all seasons, including when they defeated the L.A. Lakers in Round 1, and then swept the Denver Nuggets in Round 2.</h4>
+<h4>This will be CP3's second time in the Western Conference Finals. He went in 2018 with the Houston Rockets, but an injury kept him out of games 6 and 7.</h4>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr />
+<h3>HIGHLIGHTS OF SECOND GAME:</h3>
 
-### Markdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7B4SGybInU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stefanradic995/Moj-najnoviji-projekat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h4>Who will win the Western Conference finals?
+	<br />
+	<input type="radio" name="club" value="Phoenix Suns"
+	checked="checked" /> Phoenix Suns
+	<input type="radio" name="club" value="Clippers" />
+	Clippers
+</h4>
+<hr />
+<h4>Comments</h4>
+<textarea name="comments" cols="20" rows="4">Enter your comments...</textarea>
+<h4>&#169 ABC NEWS</h4>
+</body>
+</html>
